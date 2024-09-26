@@ -1,2 +1,0 @@
-# Proteomics
-Basic Proteomics Pipeline
